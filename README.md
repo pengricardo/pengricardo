@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pengricardo
 - 👀 I’m interested in Web3，Finance
-- 🌱 I’m currently learning Go，Python，Move
+- 🌱 I’m currently learning Java，Python，HTML，Move
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email：PengRicardo@163.com
 
